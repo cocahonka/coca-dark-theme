@@ -3,6 +3,7 @@
   "displayName": "COCA Dark Theme",
   "description": "COCA Dark Theme!",
   "version": "1.0.0",
+  "icon": "images/logo.png",
   "publisher": "cocahonka",
   "repository": {
     "type": "git",
