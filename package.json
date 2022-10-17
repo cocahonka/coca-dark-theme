@@ -1,0 +1,41 @@
+{
+  "name": "coca-dark-theme",
+  "displayName": "COCA Dark Theme",
+  "description": "COCA Dark Theme!",
+  "version": "1.0.0",
+  "publisher": "cocahonka",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cocahonka",
+    "coca",
+    "соса",
+    "dart theme",
+    "dart dark theme",
+    "flutter theme",
+    "flutter dark theme",
+    "flutter dark theme",
+    "bear theme",
+    "bear improved",
+    "yellow dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "COCA Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/COCA Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
