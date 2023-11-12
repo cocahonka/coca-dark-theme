@@ -1883,6 +1883,63 @@
 				"foreground": "#E6844F"
 			}
 		},
+		// env
+		{
+			"scope": [
+				"keyword.other.definition.ini",
+			],
+			"settings": {
+				"foreground": "#E6844F",
+			}
+		},
+		{
+			"scope": [
+				"source.ini",
+			],
+			"settings": {
+				"foreground": "#66a866",
+			}
+		},
+		//php
+		{
+			"scope": [
+				"keyword.operator.logical.php",
+				"keyword.operator.arithmetic.php",
+				"keyword.operator.assignment.php",
+				"keyword.operator.comparison.php",
+				"keyword.operator.increment-decrement.php",
+			],
+			"settings": {
+				"foreground": "#DDA52D",
+			}
+		},
+		{
+			"scope": [
+				"support.function",
+				"meta.function-call.php",
+			],
+			"settings": {
+				"foreground": "#58B2DC",
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator.null-coalescing.php",
+				"variable.language.this.php",
+			],
+			"settings": {
+				"foreground": "#E03C8A",
+			}
+		},
+		//html
+		{
+			"scope": [
+				"entity.name.tag.html",
+			],
+			"settings": {
+				"foreground": "#E03C8A",
+			}
+		},
 		// dart
 		{
 			"scope": "variable.language.dart",
